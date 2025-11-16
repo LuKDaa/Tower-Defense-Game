@@ -1,4 +1,4 @@
-# 🚀 Tower Defense (Proyecto Final) // Creado Por LuKDaa :D
+# 🚀 Tower Defense (Proyecto Final) Creado Por LuKDaa :D
 
 Un juego Tower Defense completo hecho en Java y Greenfoot.
 
@@ -6,8 +6,8 @@ Un juego Tower Defense completo hecho en Java y Greenfoot.
 
 ## 🎮 Características Principales
 
-* **3 Tipos de Torres:** Básica, Ralentizante (Sniper).
-* **Múltiples Tipos de Enemigos:** Incluyendo Rápido, Tanque y Jefes (Bosses).
+* **3 Tipos de Torres:** Básica, Ralentizante y Sniper.
+* **Múltiples Tipos de Enemigos:** Incluyendo Rápido, Tanque y Jefes .
 * **Sistema de Mejoras:** Las torres pueden mejorarse, escalando su daño exponencialmente.
 * **Balanceo Avanzado:** La dificultad escala con `Math.pow()` para crear una curva de desafío real.
 * **Lógica de Caminos:** Incluye un "path split" donde los enemigos eligen aleatoriamente entre dos rutas.
@@ -24,3 +24,4 @@ Un juego Tower Defense completo hecho en Java y Greenfoot.
 1.  Clona o descarga este repositorio.
 2.  Ábrelo con el IDE de Greenfoot.
 3.  Presiona "Run".
+4.  Disfruta del juego ;)
