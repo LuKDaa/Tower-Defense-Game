@@ -2,7 +2,7 @@
 
 Un juego Tower Defense completo hecho en Java y Greenfoot.
 
-![Gameplay del juego Tower Defense](https://github.com/LuKDaa/Tower-Defense-Game/blob/main/assets/gamegif.gif)
+![Gameplay del juego Tower Defense](https://github.com/LuKDaa/Tower-Defense-Game/blob/main/assets/gamegif.gif?raw=true)
 
 ## 🎮 Características Principales
 
